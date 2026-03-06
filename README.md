@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Vinuji2005/Vinuji2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vinuji Visakya**, a passionate software engineering student and developer.
 
-Here are some ideas to get you started:
+### About Me
+- 👨‍🎓 **Education**: BSc(Hons) Software Engineering at CINEC Campus
+- 🎂 **Age**: 21
+- 💻 **Skills**: Proficient in C programming language
+- 🔭 Currently expanding my software development knowledge and exploring new technologies
+- 🌱 Always learning and growing as a developer
+- 👯 Open to collaborating on interesting projects
+- 💬 Feel free to ask me about C programming or software engineering concepts
+- 📫 **How to reach me**: Connect with me here on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun Facts
+- ⚡ Passionate about problem-solving through code
+- 🚀 Aspiring to build impactful software solutions
+
+---
+
+*Last updated: March 6, 2026*
